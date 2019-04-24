@@ -1,5 +1,7 @@
 # IArchive
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/interactive-apps/iarchive.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.8.
 
 ## Development server
